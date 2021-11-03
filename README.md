@@ -1,16 +1,25 @@
-# meals_app
+# What's for dinner ? 
+My flutter journey is continuing and this I built app to choose meal for the dinner.
 
-A new Flutter project.
+Since the time when I built my last project which was "Personal Expenses App" , I've learnt a lot about adaptive and responsive user interfaces, flutter internals, navigation and multiple screens.
 
-## Getting Started
+## Screenshot of the meal app
+### Home Page
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/75604874/140177781-8ed39461-e285-4214-8426-29c92619e03b.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Category Meals Screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/75604874/140177827-65b8c7ee-5a68-491d-a101-715d3da50450.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Filter Screen
+
+![image](https://user-images.githubusercontent.com/75604874/140177899-092e9f08-8c34-4205-abd5-68ee74a42666.png)
+
+### Drawer
+
+![image](https://user-images.githubusercontent.com/75604874/140177952-44612659-9046-432a-ab71-f48cda84e230.png)
+
+### Favourites tab
+
+![image](https://user-images.githubusercontent.com/75604874/140177995-e3c35e97-abe7-4eee-9346-7dd4ef42f8b5.png)
